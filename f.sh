@@ -18,7 +18,7 @@ echo $purple"[1] Facebook Brute "
 echo 
 echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
  [    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
- [    Daftar Tools :    13/350 Jenis                                                  
+ [    Daftar Tools :    00/001 Jenis                                                  
  [    Github       :    https://github.com/B4J1NG4Nt3rh0rm4t
  [    Message      :    Pergunakan lah Tools Ini Sebaik Mungkin 
  [    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
@@ -36,10 +36,10 @@ sleep 1
 clear
 echo "
           _____________________________________________->
-         /______________echo $green"My" echo $cyan"Noob" echo $white"Tools"_________________->
+         /______echo $green"My" echo $cyan"Noob" echo $white"Tools"______->
         /____________________________________________-> 
        /                                            /
-      /"  echo $red"WELCOME TO B4J1NG4N T3RH0RM4T FBbrute"     echo "/
+      /"  echo $red"WELCOME TO B4J1NG4N T3RH0RM4T FBbrute"     echo $white"/
      /                                            /
     /____________________________________________/"
 figlet congratulations |lolcat
