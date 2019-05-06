@@ -35,13 +35,13 @@ sl
 sleep 1
 clear
 echo "
-\ 
-\ \ 
-\ \     ___________________________________________
-\  \  {______________My Noob Tools________________}
-\  \/_____________________________________________ 
-\   WELCOME TO B4J1NG4N T3RH0RM4T FBbrute    /
- \_____________________________________________/"
+          _____________________________________________->
+         /______________echo $green"My" echo $cyan"Noob" echo $white"Tools"_________________->
+        /____________________________________________-> 
+       /                                            /
+      /"  echo $red"WELCOME TO B4J1NG4N T3RH0RM4T FBbrute"     echo "/
+     /                                            /
+    /____________________________________________/"
 figlet congratulations |lolcat
 sleep 1
 echo $green" Installing fbbrute2 Cuk ..."
