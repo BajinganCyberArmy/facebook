@@ -39,7 +39,7 @@ echo "
          /______echo $green"My" echo $cyan"Noob" echo $white"Tools"______->
         /____________________________________________-> 
        /                                            /
-      /"  echo $red"WELCOME TO B4J1NG4N T3RH0RM4T FBbrute"     echo $white"/
+      /"   $red"WELCOME TO B4J1NG4N T3RH0RM4T FBbrute"     echo $white"/
      /                                            /
     /____________________________________________/"
 figlet congratulations |lolcat
