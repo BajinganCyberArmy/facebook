@@ -13,7 +13,7 @@ white='\033[37;1m'
 figlet B4J1NG4N TOOLS | lolcat
 
 echo $red "Marhaban" $white "ya Ramadhan"
-
+sleep 3
 echo $white "Selamat"
 figlet Marhaban |lolcat
 echo $white "Menunaikan"
@@ -22,19 +22,20 @@ echo $white "Ibadah"
 figlet Ramadhan |lolcat
 echo $white "Puasa"
 echo
-
+sleep 3
 echo $purple"[1] Facebook Brute "
 echo $blue" [2] spesial Ramadhan "
 echo $red " [3] spesial Thanks "
 echo
+sleep 3
 echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
  [    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
- [    Daftar Tools :    00/001 Jenis                                                  
+ [    Daftar Tools :    00/003 Jenis                                                  
  [    Github       :    https://github.com/B4J1NG4Nt3rh0rm4t
  [    Message      :    Pergunakan lah Tools Ini Sebaik Mungkin 
  [    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
  ╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
-
+sleep 3
 read -p "root@B4J1ⁿ64ⁿ(@)(@)===•D" F47u2
 
 
@@ -190,7 +191,7 @@ clear
 sleep 1
 cd BajinganV1
 sh BCA.sh
-di
+fi
 
 if [ $F47u2= 3 ] || [ $F47u2= 3 ]
 then
@@ -213,4 +214,7 @@ echo
 figlet And All Team Cyber |lolcat
 sleep 1
 figlet Thank you so much |lolcat 
+clear
+sleep 1
 fi
+
