@@ -36,12 +36,12 @@ echo $red " <[3]> spesial Thanks "
 echo
 sleep 2
 echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
-$green"["    $white"Author"       $red":    B4J1ⁿ64ⁿ T³RH0RM⁴T"                                  
-$green"["    $white"Daftar Tools" $red":    00/003" $green"Jenis"                                                  
-$green"["    $white"Github"       $red":    https://github.com/BajinganCyberArmy"
-$green"["    $white"Message"      $red":    Pergunakan lah Tools Ini Sebaik Mungkin" 
-$green"["    $white"My Team"      $red":    B4J1NG4N Cyber Team" $green"\/" $red"DarkNess Cyber Team"
-$green"╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
+[    $white"Author"       $red":    B4J1ⁿ64ⁿ T³RH0RM⁴T"                                  
+[    $white"Daftar Tools" $red":    00/003" $green"Jenis"                                                  
+[    $white"Github"       $red":    https://github.com/BajinganCyberArmy"
+[    $white"Message"      $red":    Pergunakan lah Tools Ini Sebaik Mungkin" 
+[    $white"My Team"      $red":    B4J1NG4N Cyber Team" $green"\/" $red"DarkNess Cyber Team"
+╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 echo
 echo
 sleep 1
