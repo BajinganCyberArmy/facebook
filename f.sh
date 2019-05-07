@@ -11,33 +11,23 @@ red='\033[31;1m'
 white='\033[37;1m'
 
 figlet B4J1NG4N TOOLS | lolcat
-echo # $"green"______________________________"#
-# $blue"\-__-/\-__-/\-__-/\-__-/\-__-/"#     
-# $green"-\--/--\--/--\--/--\--/--\--/-"#                                
-# $purple"-_\/_--_\/_--_\/_--_\/_--_\/_-"#         
-# $white"______________________________"#          
-  #         \      /         #           
-  #   #####  !    !  #####   #              
-  #  #@@@@@#        #@@@@@#  #                     
-  #  #@@@@@#        #@@@@@#  #
-  #  #@@@@@#        #@@@@@#  #                
-  #  #@@@@@#   %    #@@@@@#  #                
-  #   #####  %###%   #####   #
-  #@@@@@@@@@@@@@@@@@@@@@@@@@@#
-  #++++++++++++++++++++++++++#
-  #++++++++++++++++++++++++++#
-  #_________-_______-________#
-  #______-%%%%%-_-%%%%%-_____#
-  #____-%%%%%%%%-%%%%%%%-____#
-  #@@@@@@@@@@@@@@@@@@@@@@@@@@#
-    ########################
-      ####################
-         ##############
-             #####
-echo $cyan"Hanya Satu Pilihan"
-echo $green"Tekan Aja Ok=>"
+
+echo $cyan"3 Pilihan lebih baik"
+echo $green"Tekan Aja Ok Nomernya (M)(R)(F)(4)(7)=>"
+echo $red "Marhaban" $white "ya Ramadhan"
+
+echo $white "Selamat"
+figlet Marhaban |lolcat
+echo $white "Menunaikan"
+figlet Yaaaaaaa |lolcat
+echo $white "Ibadah"
+figlet Ramadhan |lolcat
+echo $white "Puasa"
+echo
 echo $purple"[1] Facebook Brute "
-echo 
+echo $blue" [2] spesial Ramadhan "
+echo $red " [3] spesial Thanks "
+echo
 echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
  [    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
  [    Daftar Tools :    00/001 Jenis                                                  
@@ -46,7 +36,7 @@ echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  [    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
  ╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 
-read -p "root@B4J1ⁿ64ⁿ=•>" F47u2
+read -p "root@B4J1ⁿ64ⁿ(@)(@)===•D" F47u2
 
 
 if [ $F47u2 = 1 ] || [ $F47u2 = 1 ]
@@ -58,7 +48,7 @@ sleep 1
 clear
 echo "
           _____________________________________________->
-         /__________echo $green"My"  $cyan"Noob"  $white"Tools"__________->
+         /__________$red"echo" $green"My"  $cyan"Noob"  $white"Tools"_____________->
         /____________________________________________-> 
        /                                            /
       /"   $red"WELCOME TO B4J1NG4N T3RH0RM4T FBbrute"     echo $white"/
@@ -176,4 +166,38 @@ clear
 sleep 1
 cd fbbrute2
 python2 f.py
+fi
+
+if [ $F47u2 = 2 ] || [ $F47u2 = 2 ]
+then
+clear
+echo $green "Welcome To Installing Tools BCA TEAM..."
+sleep 3
+clear
+figlet ea Welcome |lolcat
+sleep 1
+clear 
+apt-get update && apt-get upgrade -y
+apt-get install git -y 
+pkg install figlet
+pkg install gem
+pkg install ruby
+pkg install python2 
+gem install lolcat
+git clone https://github.com/B4J1NG4Nt3rh0rm4t/BajinganV1
+mv BajinganV1 $HOME
+cd $HOME/BajinganV1
+clear
+sleep 1
+cd BajinganV1
+sh BCA.sh
+di
+
+if [ $F47u2= 3 ] || [ $F47u2= 3 ]
+then
+clear
+figlet Spesial Thanks |lolcat
+sleep 2
+echo $red"Process Failed"
+exit
 fi
