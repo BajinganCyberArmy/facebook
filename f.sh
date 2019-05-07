@@ -35,13 +35,13 @@ sleep 1
 echo $red " <[3]> spesial Thanks "
 echo
 sleep 2
-echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+echo $green"╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
 [    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
 [    Daftar Tools :    00/003" $green"Jenis                                                  
 [    Github       :    https://github.com/BajinganCyberArmy
 [    Message      :    Pergunakan lah Tools Ini Sebaik Mungkin 
 [    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
-╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
+╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 echo
 echo
 sleep 1
