@@ -199,5 +199,15 @@ clear
 figlet Spesial Thanks |lolcat
 sleep 2
 echo $red"Process Failed"
+sleep 2
+clear
+echo $green" Ksayangan :*"
+sleep 1
+clear
+echo $red "(1)" $green"W174 Juwita"
+$red "(2)" $green"Thini :*"
+$red "(3)" $green"Angelina"
+echo
+figlet And All Team Cyber |lolcat
 exit
 fi
