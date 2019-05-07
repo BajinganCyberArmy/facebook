@@ -24,10 +24,12 @@ echo $white "Puasa"
 echo
 sleep 3
 echo $purple"[1] Facebook Brute "
+sleep 1
 echo $blue" [2] spesial Ramadhan "
+sleep 1
 echo $red " [3] spesial Thanks "
 echo
-sleep 3
+sleep 2
 echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
  [    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
  [    Daftar Tools :    00/003 Jenis                                                  
@@ -35,7 +37,7 @@ echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  [    Message      :    Pergunakan lah Tools Ini Sebaik Mungkin 
  [    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
  ╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
-sleep 3
+sleep 1
 read -p "root@B4J1ⁿ64ⁿ(@)(@)===•D" F47u2
 
 
@@ -174,7 +176,7 @@ clear
 echo $green "Welcome To Installing Tools BCA TEAM..."
 sleep 3
 clear
-figlet ea Welcome |lolcat
+figlet Welcome lagi :V |lolcat
 sleep 1
 clear 
 apt-get update && apt-get upgrade -y
@@ -206,9 +208,9 @@ sleep 1
 clear
 echo $red "(1)" $green"W174 Juwita"
 sleep 3
-$red "(2)" $green"Thini :*"
+echo $red "(2)" $green"Thini :*"
 sleep 2
-$red "(3)" $green"Angelina"
+echo $red "(3)" $green"Angelina"
 sleep 1
 echo
 figlet And All Team Cyber |lolcat
