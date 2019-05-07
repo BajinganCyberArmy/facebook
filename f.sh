@@ -12,25 +12,25 @@ white='\033[37;1m'
 
 figlet Indonesia | lolcat
 sleep 1
-figlet Merdeka |lolcat
+figlet  Merdeka |lolcat
 sleep 2
-clear
 echo $red "Marhaban" $white "ya Ramadhan"
 sleep 3
-echo $white "Selamat"
+clear
+echo $white "{" $green"Selamat" $white"}"
 figlet Marhaban |lolcat
-echo $white "Menunaikan"
+echo $white "{" $green"Menunaikan" $white"}"
 figlet Yaaaaaaa |lolcat
-echo $white "Ibadah"
+echo $white "{" $green"Ibadah" $white"}"
 figlet Ramadhan |lolcat
-echo $white "Puasa"
+echo $white "{" $green"Puasa" $white"}"
 echo
 sleep 3
-echo $purple"[1] Facebook Brute "
+echo $purple"<[1]> Facebook Brute "
 sleep 1
-echo $blue" [2] spesial Ramadhan "
+echo $blue" <[2]> spesial Ramadhan "
 sleep 1
-echo $red " [3] spesial Thanks "
+echo $red " <[3]> spesial Thanks "
 echo
 sleep 2
 echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
