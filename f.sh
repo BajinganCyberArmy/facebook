@@ -41,9 +41,9 @@ echo $green"╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
 [    Github       :  https://github.com/BajinganCyberArmy
 [    Message      :  Pergunakan lah Tools Ini Sebaik Mungkin 
 [    My Team      :  B4J1NG4N Cyber Team\/DarkNess Cyber Team
-[          (Thanks)-------------------------------------------\
-[    Spesial      :  Mr.Ruxhan\Mr.057/M1MK.N4N\W1T4/Th1n1\Mr.X )
-[          (Friend)-------------------------------------------/        
+[          (Thanks)
+[    Spesial      :  Mr.Ruxhan\Mr.057/M1MK.N4N\W1T4/Th1n1\Mr.X
+[          (Friend)        
 ╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 echo
 echo
