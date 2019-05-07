@@ -10,8 +10,11 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[37;1m'
 
-figlet B4J1NG4N TOOLS | lolcat
-
+figlet Indonesia | lolcat
+sleep 1
+figlet Merdeka |lolcat
+sleep 2
+clear
 echo $red "Marhaban" $white "ya Ramadhan"
 sleep 3
 echo $white "Selamat"
@@ -194,29 +197,3 @@ sleep 1
 cd BajinganV1
 sh BCA.sh
 fi
-
-if [ $F47u2= 3 ] || [ $F47u2= 3 ]
-then
-clear
-figlet Spesial Thanks |lolcat
-sleep 2
-echo $red"Process Failed"
-sleep 2
-clear
-echo $green" Ksayangan :*"
-sleep 1
-clear
-echo $red "(1)" $green"W174 Juwita"
-sleep 3
-echo $red "(2)" $green"Thini :*"
-sleep 2
-echo $red "(3)" $green"Angelina"
-sleep 1
-echo
-figlet And All Team Cyber |lolcat
-sleep 1
-figlet Thank you so much |lolcat 
-clear
-sleep 1
-fi
-
