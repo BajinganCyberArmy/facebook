@@ -27,21 +27,25 @@ echo $white "{" $green"Puasa" $white"}"
 echo
 sleep 3
 echo $purple"<[1]> Facebook Brute "
+echo
 sleep 1
 echo $blue" <[2]> spesial Ramadhan "
+echo
 sleep 1
 echo $red " <[3]> spesial Thanks "
 echo
 sleep 2
-echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
- [    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
- [    Daftar Tools :    00/003 Jenis                                                  
- [    Github       :    https://github.com/B4J1NG4Nt3rh0rm4t
- [    Message      :    Pergunakan lah Tools Ini Sebaik Mungkin 
- [    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
- ╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
+echo $green "╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
+$green"["    $white"Author"       $red":    B4J1ⁿ64ⁿ T³RH0RM⁴T"                                  
+$green"["    $white"Daftar Tools" $red":    00/003" $green"Jenis"                                                  
+$green"["    $white"Github"       $red":    https://github.com/BajinganCyberArmy"
+$green"["    $white"Message"      $red":    Pergunakan lah Tools Ini Sebaik Mungkin" 
+$green"["    $white"My Team"      $red":    B4J1NG4N Cyber Team" $green"\/" $red"DarkNess Cyber Team"
+$green"╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
+echo
+echo
 sleep 1
-read -p "root@B4J1ⁿ64ⁿ(@)(@)===•D" F47u2
+read -p "root@B4J1ⁿ64ⁿ=•>" F47u2
 
 
 if [ $F47u2 = 1 ] || [ $F47u2 = 1 ]
