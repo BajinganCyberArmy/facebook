@@ -12,8 +12,6 @@ white='\033[37;1m'
 
 figlet B4J1NG4N TOOLS | lolcat
 
-echo $cyan"3 Pilihan lebih baik"
-echo $green"Tekan Aja Ok Nomernya (M)(R)(F)(4)(7)=>"
 echo $red "Marhaban" $white "ya Ramadhan"
 
 echo $white "Selamat"
@@ -24,6 +22,7 @@ echo $white "Ibadah"
 figlet Ramadhan |lolcat
 echo $white "Puasa"
 echo
+
 echo $purple"[1] Facebook Brute "
 echo $blue" [2] spesial Ramadhan "
 echo $red " [3] spesial Thanks "
@@ -205,9 +204,13 @@ echo $green" Ksayangan :*"
 sleep 1
 clear
 echo $red "(1)" $green"W174 Juwita"
+sleep 3
 $red "(2)" $green"Thini :*"
+sleep 2
 $red "(3)" $green"Angelina"
+sleep 1
 echo
 figlet And All Team Cyber |lolcat
-exit
+sleep 1
+figlet Thank you so much |lolcat 
 fi
