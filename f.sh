@@ -32,16 +32,19 @@ sleep 1
 echo $blue" <[2]> spesial Ramadhan "
 echo
 sleep 1
-echo $red " <[3]> spesial Thanks "
+echo $red  " <[3]> spesial Thanks "
 echo
 sleep 2
-echo $green"╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
-[    Author       :    B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
-[    Daftar Tools :    00/003" $green"Jenis                                                  
-[    Github       :    https://github.com/BajinganCyberArmy
-[    Message      :    Pergunakan lah Tools Ini Sebaik Mungkin 
-[    My Team      :    B4J1NG4N Cyber Team\/DarkNess Cyber Team
-╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
+echo $green"╭─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+[    Author       :  B4J1ⁿ64ⁿ T³RH0RM⁴T                                  
+[    Daftar Tools :  00/003" $green"Jenis                                                  
+[    Github       :  https://github.com/BajinganCyberArmy
+[    Message      :  Pergunakan lah Tools Ini Sebaik Mungkin 
+[    My Team      :  B4J1NG4N Cyber Team\/DarkNess Cyber Team
+[          (Thanks)-------------------------------------------\
+[    Spesial      :  Mr.Ruxhan\Mr.057/M1MK.N4N\W1T4/Th1n1\Mr.X )
+[          (Friend)-------------------------------------------/        
+╰─~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 echo
 echo
 sleep 1
